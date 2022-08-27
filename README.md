@@ -13,8 +13,8 @@
 
 - 💐 I’m currently studying ...
 
+-📫 How to reach me [![Tg Badge](https://img.shields.io/badge/-𝙱𝚕𝚎𝚜𝚜𝚘𝚗-blue?style=flat&logo=telegram&logoColor=white)](https://t.me/blesson_TG)
 
--📫 How to reach me [![Tg Badge](https://img.shields.io/badge/-ＣＬＡＹ-blue?style=flat&logo=telegram&logoColor=white)](https://t.me/CLaY995)
 
 
 
