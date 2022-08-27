@@ -15,7 +15,7 @@
 
 -
 
-- 📫 How to reach me ...[![Tg Badge](https://img.shields.io/badge/-{name}-blue?style=flat&logo=telegram&logoColor=white)](https://t.me/{blesson_TG})
+- 📫 How to reach me ...[![Tg Badge](https://img.shields.io/badge/-{contact}-blue?style=flat&logo=telegram&logoColor=white)](https://t.me/{blesson_TG})
 
 
 
