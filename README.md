@@ -7,15 +7,15 @@
 </h2>
 
 <h3>:man_technologist: About me:</h3>
-- 👋 Hi, I’m @BlessonTG
+- 👋 Hi, I’m Blesson
 
-- 👀 I’m interested in ...
+- 👀 I’m interested in some crazy stuffs 🌌  🔭...
 
-- 🌱 I’m currently learning ...
+- 💐 I’m currently studying ...
 
-- 💞️ I’m looking to collaborate on ...
+-
 
-- 📫 How to reach me ...
+- 📫 How to reach me ...[![Tg Badge](https://img.shields.io/badge/-{name}-blue?style=flat&logo=telegram&logoColor=white)](https://t.me/{blesson_TG})
 
 
 
