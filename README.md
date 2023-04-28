@@ -8,7 +8,7 @@
 </h2>
 
 <h3>:man_technologist: About me:</h3>
- - 👋 Hi, I’m Blesson
+ - 👋 Hi, I’m Fast movie Group BOT
 
  - 👀 I’m interested in some crazy stuffs 🌌  🔭...
 
